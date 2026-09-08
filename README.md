@@ -10,22 +10,50 @@ I am an Electrical Engineering student interested in technology, programming, em
 
 - 🎓 Electrical Engineering Student
 - 🔧 Interested in Embedded Systems and IoT
-- 📡 Learning wireless communication systems
+- 📡 Interested in wireless communication systems
 - 🎵 Currently learning Digital Signal Processing
 - 💻 Interested in programming and technology development
+- 🌱 Currently developing my technical skills through academic projects and internship experience
+
 
 ## 🛠️ Skills & Tools
 
+### Programming
 - C / C++
 - Python
+
+### Embedded Systems
 - Arduino
 - ESP32
-- Wemos D1 Mini
+- Wemos ESP8266 / D1 Mini
+
+### Wireless Communication
 - ESP-NOW
 - LoRa
-- Git & GitHub
+
+### Tools
+- Arduino IDE
+- Git
+- GitHub
 
 ## 📂 Projects
+
+### 📡 FenceGuard Wireless Monitoring System
+
+Development and performance evaluation of sender nodes in a wireless fence monitoring system using ESP-NOW multi-hop communication and LoRa.
+
+**My focus:**
+- Data transmission from Node A, B, C, D, and F
+- ESP-NOW multi-hop communication
+- LoRa communication
+- Packet Delivery Ratio (PDR) analysis
+- Packet loss analysis
+- Transmission interval and jitter analysis
+- Communication stability testing
+
+**Technologies:**  
+ESP32 • Wemos ESP8266 • ESP-NOW • LoRa • Arduino IDE
+
 
 I will gradually add my academic, internship, and personal projects here.
 ## 💼 Internship / Experience
