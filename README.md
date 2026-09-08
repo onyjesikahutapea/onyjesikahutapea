@@ -35,6 +35,8 @@ I will gradually add my academic, internship, and personal projects here.
 
 -[International Youth Summit 2026](Sertifikat_Internasioal%20Youth%20Summit_2026.png)
 
+-[Internship 2026](sertifikat_Internship_2026.jpeg)
+
 ## 📫 Contact
 
 Feel free to connect with me through GitHub.
