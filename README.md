@@ -88,7 +88,7 @@ Main activities:
 
 ### 📜 Internship Certificate
 
-- [Internship 2026](LINK-SERTIFIKAT-INTERNSHIP)
+- [Internship 2026](sertifikat_Internship_2026.jpeg)
 
 
 
