@@ -82,9 +82,7 @@ Main activities:
 - Essay title: **“SMART COFFEE ROASTING INNOVATION BASED ON MACHINE LEARNING AND IoT AS A YOUTH-DRIVEN STRATEGY TOWARD GOLD INDONESIAN 2045.”**
 - The presentation focused on the use of Machine Learning and IoT for smart coffee roasting as a youth-driven innovation to support the development of Indonesian coffee toward Indonesia Emas 2045.
 
--[International Youth Summit 2026](Sertifikat_Internasioal%20Youth%20Summit_2026.png)
 
--[International_Youth Summit 2026](sertifikat_Internship_2026.jpeg)
 
 ### 📜 Internship Certificate
 
