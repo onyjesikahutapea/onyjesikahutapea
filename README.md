@@ -28,6 +28,19 @@ I am an Electrical Engineering student interested in technology, programming, em
 ## 📂 Projects
 
 I will gradually add my academic, internship, and personal projects here.
+## 💼 Internship / Experience
+
+### PT Dimensi Teknologi Informatika
+**Internship – 2026**
+
+Worked on the development and testing of the **FenceGuard monitoring system**, with a focus on wireless data transmission and communication performance.
+
+Main activities:
+- Implemented and tested ESP-NOW multi-hop communication
+- Tested LoRa communication between sender nodes and gateway
+- Analyzed PDR, packet loss, interval, and jitter
+- Performed long-duration communication stability testing
+- Documented communication issues and troubleshooting results
 
 ## 🏆 Achievements & Certifications
 ### 🏅 Dewata Essay Competition 2026
@@ -46,19 +59,6 @@ I will gradually add my academic, internship, and personal projects here.
 -[International Youth Summit 2026](Sertifikat_Internasioal%20Youth%20Summit_2026.png)
 
 -[International_Youth Summit 2026](sertifikat_Internship_2026.jpeg)
-## 💼 Internship / Experience
-
-### PT Dimensi Teknologi Informatika
-**Internship – 2026**
-
-Worked on the development and testing of the **FenceGuard monitoring system**, with a focus on wireless data transmission and communication performance.
-
-Main activities:
-- Implemented and tested ESP-NOW multi-hop communication
-- Tested LoRa communication between sender nodes and gateway
-- Analyzed PDR, packet loss, interval, and jitter
-- Performed long-duration communication stability testing
-- Documented communication issues and troubleshooting results
 
 -[Internship 2026](sertifikat_Internship_2026.jpeg)
 
