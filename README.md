@@ -31,8 +31,8 @@ I will gradually add my academic, internship, and personal projects here.
 
 ## 🏆 Achievements & Certifications
 
-[Dewata Essay Competition 2026](Sertifikat_Dewata%20Essay%20Competition_2026.jpeg)
-[International Youth Summit 2026](Sertifikat_Internasioal%20Youth%20Summit_2026.png)
+-[Dewata Essay Competition 2026](Sertifikat_Dewata%20Essay%20Competition_2026.jpeg)
+-[International Youth Summit 2026](Sertifikat_Internasioal%20Youth%20Summit_2026.png)
 
 ## 📫 Contact
 
