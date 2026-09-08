@@ -31,7 +31,10 @@ I will gradually add my academic, internship, and personal projects here.
 
 ## 🏆 Achievements & Certifications
 
--[Dewata Essay Competition 2026](Sertifikat_Dewata%20Essay%20Competition_2026.jpeg)
+- [View Certificate](Sertifikat_Dewata%20Essay%20Competition_2026.jpeg)
+- Participant in the national-level Dewata Essay Competition 2026.
+- Essay title: **“Inovasi Smart Coffee Roasting Berbasis Machine Learning dan IoT sebagai Strategi Nilai Tambah Kopi Indonesia Menuju Indonesia Emas 2045.”**
+- The essay explored the use of Machine Learning and IoT concepts to support innovation and added value in Indonesian coffee processing.
 
 -[International Youth Summit 2026](Sertifikat_Internasioal%20Youth%20Summit_2026.png)
 
