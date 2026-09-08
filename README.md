@@ -31,7 +31,7 @@ I will gradually add my academic, internship, and personal projects here.
 
 ## 🏆 Achievements & Certifications
 
-My achievements and certifications will be documented here.
+[Dewata Essay Competition 2026] (Sertifikat_Dewata%20Essay%20Competition_2026.jpeg)
 
 ## 📫 Contact
 
