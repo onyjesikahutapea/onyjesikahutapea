@@ -30,7 +30,7 @@ I am an Electrical Engineering student interested in technology, programming, em
 I will gradually add my academic, internship, and personal projects here.
 
 ## 🏆 Achievements & Certifications
-
+### 🏅 Dewata Essay Competition 2026
 - [View Certificate](Sertifikat_Dewata%20Essay%20Competition_2026.jpeg)
 - Participant in the national-level Dewata Essay Competition 2026.
 - Essay title: **“Inovasi Smart Coffee Roasting Berbasis Machine Learning dan IoT sebagai Strategi Nilai Tambah Kopi Indonesia Menuju Indonesia Emas 2045.”**
