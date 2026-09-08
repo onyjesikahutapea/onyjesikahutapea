@@ -36,6 +36,13 @@ I will gradually add my academic, internship, and personal projects here.
 - Essay title: **“Inovasi Smart Coffee Roasting Berbasis Machine Learning dan IoT sebagai Strategi Nilai Tambah Kopi Indonesia Menuju Indonesia Emas 2045.”**
 - The essay explored the use of Machine Learning and IoT concepts to support innovation and added value in Indonesian coffee processing.
 
+  ### 🌏 International Youth Summit 2026
+
+- [View Certificate](https://github.com/onyjesikahutapea/onyjesikahutapea/blob/main/Sertifikat_Internasioal%20Youth%20Summit_2026.png)
+- Presented a technology-based idea at the International Youth Summit 2026.
+- Presentation title: **“SMART COFFEE ROASTING INNOVATION BASED ON MACHINE LEARNING AND IoT AS A YOUTH-DRIVEN STRATEGY TOWARD GOLD INDONESIAN 2045.”**
+- The presentation focused on the use of Machine Learning and IoT for smart coffee roasting as a youth-driven innovation to support the development of Indonesian coffee toward Indonesia Emas 2045.
+
 -[International Youth Summit 2026](Sertifikat_Internasioal%20Youth%20Summit_2026.png)
 
 -[International_Youth Summit 2026](sertifikat_Internship_2026.jpeg)
