@@ -40,7 +40,7 @@ I will gradually add my academic, internship, and personal projects here.
 
 - [View Certificate](https://github.com/onyjesikahutapea/onyjesikahutapea/blob/main/Sertifikat_Internasioal%20Youth%20Summit_2026.png)
 - Presented a technology-based idea at the International Youth Summit 2026.
-- Presentation title: **“SMART COFFEE ROASTING INNOVATION BASED ON MACHINE LEARNING AND IoT AS A YOUTH-DRIVEN STRATEGY TOWARD GOLD INDONESIAN 2045.”**
+- Essay title: **“SMART COFFEE ROASTING INNOVATION BASED ON MACHINE LEARNING AND IoT AS A YOUTH-DRIVEN STRATEGY TOWARD GOLD INDONESIAN 2045.”**
 - The presentation focused on the use of Machine Learning and IoT for smart coffee roasting as a youth-driven innovation to support the development of Indonesian coffee toward Indonesia Emas 2045.
 
 -[International Youth Summit 2026](Sertifikat_Internasioal%20Youth%20Summit_2026.png)
