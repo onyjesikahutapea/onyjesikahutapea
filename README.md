@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Ony Jesika Hutapea 👋
 
-<!--
-**onyjesikahutapea/onyjesikahutapea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Electrical Engineering Student
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an Electrical Engineering student interested in technology, programming, embedded systems, IoT, and digital signal processing.
+
+## 👩‍💻 About Me
+
+- 🎓 Electrical Engineering Student
+- 🔧 Interested in Embedded Systems and IoT
+- 📡 Learning wireless communication systems
+- 🎵 Currently learning Digital Signal Processing
+- 💻 Interested in programming and technology development
+
+## 🛠️ Skills & Tools
+
+- C / C++
+- Python
+- Arduino
+- ESP32
+- Wemos D1 Mini
+- ESP-NOW
+- LoRa
+- Git & GitHub
+
+## 📂 Projects
+
+I will gradually add my academic, internship, and personal projects here.
+
+## 🏆 Achievements & Certifications
+
+My achievements and certifications will be documented here.
+
+## 📫 Contact
+
+Feel free to connect with me through GitHub.
