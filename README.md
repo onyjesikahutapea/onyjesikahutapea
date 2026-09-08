@@ -54,8 +54,6 @@ Development and performance evaluation of sender nodes in a wireless fence monit
 **Technologies:**  
 ESP32 • Wemos ESP8266 • ESP-NOW • LoRa • Arduino IDE
 
-
-I will gradually add my academic, internship, and personal projects here.
 ## 💼 Internship / Experience
 
 ### PT Dimensi Teknologi Informatika
