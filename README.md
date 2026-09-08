@@ -64,9 +64,10 @@ Main activities:
 
 - [Internship 2026](LINK-SERTIFIKAT-INTERNSHIP)
 
--[Internship 2026](sertifikat_Internship_2026.jpeg)
 
 
 ## 📫 Contact
 
-Feel free to connect with me through GitHub.
+- GitHub: [onyjesikahutapea](https://github.com/onyjesikahutapea)
+- LinkedIn: Add your LinkedIn profile
+- Email: onyjesikahutapea25@gmail.com
