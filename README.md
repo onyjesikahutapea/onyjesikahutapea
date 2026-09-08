@@ -60,6 +60,10 @@ Main activities:
 
 -[International_Youth Summit 2026](sertifikat_Internship_2026.jpeg)
 
+### 📜 Internship Certificate
+
+- [Internship 2026](LINK-SERTIFIKAT-INTERNSHIP)
+
 -[Internship 2026](sertifikat_Internship_2026.jpeg)
 
 
